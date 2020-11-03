@@ -1,0 +1,11 @@
+[GeoServer]
+wms_url = https://ra2ce-dr.openearth.eu/geoserver/ows
+host = http://c-oet0073.directory.intra:8080/geoserver
+user = admin
+pass = HHojX6RzFgyq7toj5HzI
+[PostGis]
+host = openearth-ra2ce-dr-db.avi.directory.intra
+port = 5432
+db = oet_data
+pass = YlHhkiqVrFN7zte5o7IP
+user = oet_data

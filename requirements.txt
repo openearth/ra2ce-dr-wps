@@ -1,0 +1,6 @@
+Flask==1.1.*
+pywps==4.2.2
+OWSLib==0.19.*
+numpy==1.17.*
+SQLAlchemy==1.3.*
+
